@@ -1,1 +1,25 @@
 # Sleep-Disorder-Detection-via-questionnaire-audio-of-snoring-or-wearable-data-
+<img width="328" alt="image" src="https://github.com/user-attachments/assets/a9fda5ea-3b5b-4727-8e50-c15263433a0f" />
+<img width="365" alt="image" src="https://github.com/user-attachments/assets/c4d3d4f4-cebc-4496-a60d-489c0a9a9fe0" />
+<img width="640" alt="image" src="https://github.com/user-attachments/assets/7493260d-d700-4d13-929f-ff5b5c6bd846" />
+<img width="690" alt="image" src="https://github.com/user-attachments/assets/d8f6158b-47a2-4b7f-ab6e-88daa74b9b4d" />
+<img width="235" alt="image" src="https://github.com/user-attachments/assets/91374dfe-1073-442f-aa1a-1dbdd7f6134f" />
+<img width="477" alt="image" src="https://github.com/user-attachments/assets/95eb1289-de95-40ac-9071-60ff352dcccf" />
+<img width="947" alt="image" src="https://github.com/user-attachments/assets/fd1cf24f-352c-4ef1-a3da-a99679988940" />
+<img width="489" alt="image" src="https://github.com/user-attachments/assets/6e1d4c67-6ff3-4bc2-918e-a5eea732ae9d" />
+<img width="689" alt="image" src="https://github.com/user-attachments/assets/fb688eb8-552c-4911-a26b-3ed44485a9e0" />
+<img width="469" alt="image" src="https://github.com/user-attachments/assets/b9fc2acc-e32c-4628-84ec-16c47527b4ee" />
+<img width="467" alt="image" src="https://github.com/user-attachments/assets/ea879872-636e-4e98-87a7-9bb2a65ac987" />
+<img width="395" alt="image" src="https://github.com/user-attachments/assets/9647293e-e132-43a1-bfd9-9dbd4fee4727" />
+<img width="379" alt="image" src="https://github.com/user-attachments/assets/7a1816c0-c558-4491-ac34-09621f70e9d1" />
+<img width="666" alt="image" src="https://github.com/user-attachments/assets/254ac897-bf5f-4236-8a39-eba09c2ea03d" />
+<img width="715" alt="image" src="https://github.com/user-attachments/assets/4ca76590-5f8b-43b8-bad4-b7de1ce14130" />
+<img width="664" alt="image" src="https://github.com/user-attachments/assets/05941429-a6d1-4f9b-9552-7b1a2ce99d87" />
+<img width="677" alt="image" src="https://github.com/user-attachments/assets/44368d3a-9139-46f7-b5f9-ba5fa1d7f869" />
+<img width="734" alt="image" src="https://github.com/user-attachments/assets/296eadbc-57c0-4427-b1a2-ef014d707490" />
+<img width="778" alt="image" src="https://github.com/user-attachments/assets/804fa3ca-b24f-4578-875e-9175050770b2" />
+<img width="769" alt="image" src="https://github.com/user-attachments/assets/d73547b9-35a2-469e-9d69-f8b9e961425e" />
+<img width="680" alt="image" src="https://github.com/user-attachments/assets/7d98a4f1-6b0c-44e0-8348-55933edcd4e0" />
+<img width="399" alt="image" src="https://github.com/user-attachments/assets/35129fa3-f36d-4a27-b0d1-ca6e8e9166b4" />
+<img width="517" alt="image" src="https://github.com/user-attachments/assets/f43174df-35f5-418a-a7ae-5de6ab32ecdb" />
+<img width="386" alt="image" src="https://github.com/user-attachments/assets/95061d54-76ab-466b-bb43-d12a3d04b34d" />
